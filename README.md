@@ -20,6 +20,6 @@ Welcome to my GitHub profile. I’m passionate about data, analytics, and transf
 
 ### 🌍 Languages I Speak
 - **Arabic:** Native  
-- **French:** C1  
+- **French:** B2  
 - **English:** C2 (IELTS 8.5)  
 - **Italian:** A1  
