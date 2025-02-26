@@ -3,7 +3,7 @@
 Welcome to my GitHub profile. I’m passionate about data, analytics, and transforming numbers into meaningful insights. Here’s a little about me:
 
 - 👀 **I’m interested in:** Data Analytics, Machine Learning, Business Intelligence, Market Research, and AI-driven projects. 
-- 🌱 **I’m currently learning:** Advanced Data Analytics techniques, Machine Learning models with Python and R, and SQL. 
+- 🌱 **I’m currently learning:** Advanced Data Analytics techniques, Machine Learning models with Python and R. 
 - ⚡ **Fun fact:** I’ve lived, studied, and worked in three different countries (US, Canada, and now Italy), blending my love for data with multicultural experiences!  
 
 ## 🧰 Skills & Tools
